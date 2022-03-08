@@ -34,7 +34,7 @@
         <TextView
             android:id="@+id/peso"
             style="@style/campos"
-            android:text="blbla"/>
+            android:text=""/>
         <TextView
             android:text="Seu imc é:"
             style="@style/label" />
